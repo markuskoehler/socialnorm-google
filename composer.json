@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.5.0",
         "guzzlehttp/guzzle": "^6.0",
-        "socialnorm/socialnorm": "^0.2"
+        "markuskoehler/socialnorm": "^0.3"
     },
     "require-dev": {
         "mockery/mockery": "~0.8",
